@@ -1,3 +1,3 @@
-export default function Hello() {
-    return <h1>Hello NextJs!</h1>;
+export default function Page() {
+    return <h1>Hello!</h1>;
 }
